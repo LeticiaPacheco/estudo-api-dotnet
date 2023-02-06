@@ -1,0 +1,10 @@
+//app.MapGet("/getproductbyheader", (HttpRequest request) => {
+   // return request.Headers["product-code"].ToString();
+//});
+
+
+
+//api.app.com/users?datestart={date}&dateend={date}
+//app.MapGet("/getproduct", ([FromQuery]string dateStart, [FromQuery]string dateEnd) =>{
+  //  return dateStart + "-" + dateEnd;
+//});
